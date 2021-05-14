@@ -1,0 +1,3 @@
+2021-05-14 06:13:36,577 -- ERROR: -- 'Profile' object has no attribute 'img' error
+2021-05-14 06:15:32,656 -- ERROR: -- {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]} error
+2021-05-14 16:37:19,808 -- ERROR: -- {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]} error
